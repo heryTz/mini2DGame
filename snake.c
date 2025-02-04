@@ -156,7 +156,7 @@ int main() {
   int snakeLength = 1;
   Vector2 *food = (Vector2 *)malloc(sizeof(Vector2));
   *food = createFood(snake, snakeLength, nbGridX, nbGridY);
-  int snakeSpeedInMs = 500;
+  int snakeSpeedInMs = 100;
   int prevRefreshSnakeTime = currentTimestamp();
   int changeDirectionSpeed = 2000;
   Direction direction = RIGHT;
