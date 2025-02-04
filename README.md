@@ -4,7 +4,7 @@
 
 ## Snake
 
-🚧 Under construction 🚧
+![Snake demo](https://github.com/heryTz/mini2DGame/blob/main/snake.mp4?v=1)
 
 ## Boucing ball
 
